@@ -1,0 +1,36 @@
+body
+{
+  color: white;
+  background-image: linear-gradient(rgb(255, 139, 201), rgb(253, 213, 127), rgb(242, 255, 147),rgb(193, 255, 142),rgb(155, 180, 253),rgb(255, 177, 255));
+  font-size: 20px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera
+{
+  border: 2px dashed rgb(250, 161, 218);
+  width: 300px;
+  height: 200px; 
+
+}
+ #result
+ {
+  border: 2px dashed rgb(252, 208, 142);
+  width: 300px;
+  height: 300px;
+ 
+}
+button{
+  height:70x;
+  font-style: oblique;
+  font-size: large;
+  
+}
+ 
+.heading{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing:10px;
+}
